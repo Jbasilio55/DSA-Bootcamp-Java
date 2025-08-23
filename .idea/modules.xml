@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lectures/05-first-java-program/05-first-java-program.iml" filepath="$PROJECT_DIR$/lectures/05-first-java-program/05-first-java-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/07-methods/07-methods.iml" filepath="$PROJECT_DIR$/lectures/07-methods/07-methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/08-arrays/08-arrays.iml" filepath="$PROJECT_DIR$/lectures/08-arrays/08-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/09-linear search/09-linear search.iml" filepath="$PROJECT_DIR$/lectures/09-linear search/09-linear search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/10-binary search/10-binary search.iml" filepath="$PROJECT_DIR$/lectures/10-binary search/10-binary search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/11-sorting/11-sorting.iml" filepath="$PROJECT_DIR$/lectures/11-sorting/11-sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/12-strings/12-strings.iml" filepath="$PROJECT_DIR$/lectures/12-strings/12-strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/13-patterns/13-patterns.iml" filepath="$PROJECT_DIR$/lectures/13-patterns/13-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/14-recursion/14-recursion.iml" filepath="$PROJECT_DIR$/lectures/14-recursion/14-recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/15-complexity/15-complexity.iml" filepath="$PROJECT_DIR$/lectures/15-complexity/15-complexity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/16-math/16-math.iml" filepath="$PROJECT_DIR$/lectures/16-math/16-math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/17-oop/17-oop.iml" filepath="$PROJECT_DIR$/lectures/17-oop/17-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/18-linkedlist/18-linkedlist.iml" filepath="$PROJECT_DIR$/lectures/18-linkedlist/18-linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/19-stacks-n-queues/19-stacks-n-queues.iml" filepath="$PROJECT_DIR$/lectures/19-stacks-n-queues/19-stacks-n-queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/20-trees/20-trees.iml" filepath="$PROJECT_DIR$/lectures/20-trees/20-trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/21-StringBuffer/21-StringBuffer.iml" filepath="$PROJECT_DIR$/lectures/21-StringBuffer/21-StringBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/22-large numbers/22-large numbers.iml" filepath="$PROJECT_DIR$/lectures/22-large numbers/22-large numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/23-file handling/23-file handling.iml" filepath="$PROJECT_DIR$/lectures/23-file handling/23-file handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/24-heaps/24-heaps.iml" filepath="$PROJECT_DIR$/lectures/24-heaps/24-heaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/25-hashmaps/25-hashmaps.iml" filepath="$PROJECT_DIR$/lectures/25-hashmaps/25-hashmaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/26-advance-sorting/26-advance-sorting.iml" filepath="$PROJECT_DIR$/lectures/26-advance-sorting/26-advance-sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/27-huffman-coding/27-huffman-coding.iml" filepath="$PROJECT_DIR$/lectures/27-huffman-coding/27-huffman-coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/28-sqrt-decomposition/28-sqrt-decomposition.iml" filepath="$PROJECT_DIR$/lectures/28-sqrt-decomposition/28-sqrt-decomposition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAPractice/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/DSAPractice/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAPractice/Assignments/Assignments.iml" filepath="$PROJECT_DIR$/DSAPractice/Assignments/Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVASolutions/Assignments2/Assignments2.iml" filepath="$PROJECT_DIR$/JAVASolutions/Assignments2/Assignments2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAPractice/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/DSAPractice/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAPractice/BinarySearch2D/BinarySearch2D.iml" filepath="$PROJECT_DIR$/DSAPractice/BinarySearch2D/BinarySearch2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAPractice/Blind75/Blind75.iml" filepath="$PROJECT_DIR$/DSAPractice/Blind75/Blind75.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAPractice/CodindProblems/CodindProblems.iml" filepath="$PROJECT_DIR$/DSAPractice/CodindProblems/CodindProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA-Bootcamp-Java.iml" filepath="$PROJECT_DIR$/.idea/DSA-Bootcamp-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVASolutions/Assignment2/EvenOdd/EvenOdd.iml" filepath="$PROJECT_DIR$/JAVASolutions/Assignment2/EvenOdd/EvenOdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAPractice/Grokking/Grokking.iml" filepath="$PROJECT_DIR$/DSAPractice/Grokking/Grokking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAPractice/LinearSearch/LinearSearch.iml" filepath="$PROJECT_DIR$/DSAPractice/LinearSearch/LinearSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAPractice/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/DSAPractice/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAPractice/NeetCode150/NeetCode150.iml" filepath="$PROJECT_DIR$/DSAPractice/NeetCode150/NeetCode150.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAPractice/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/DSAPractice/Patterns/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAPractice/Queue/Queue.iml" filepath="$PROJECT_DIR$/DSAPractice/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAPractice/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/DSAPractice/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAPractice/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/DSAPractice/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAPractice/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/DSAPractice/Stacks/Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAPractice/StringBuilder/StringBuilder.iml" filepath="$PROJECT_DIR$/DSAPractice/StringBuilder/StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSAPractice/TwoPointer/TwoPointer.iml" filepath="$PROJECT_DIR$/DSAPractice/TwoPointer/TwoPointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/06-conditions-loops/code/code.iml" filepath="$PROJECT_DIR$/lectures/06-conditions-loops/code/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/19-stacks-n-queues/code/code2.iml" filepath="$PROJECT_DIR$/lectures/19-stacks-n-queues/code/code2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/05-first-java-program/first-idea-program/first-idea-program.iml" filepath="$PROJECT_DIR$/lectures/05-first-java-program/first-idea-program/first-idea-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/06-conditions-loops/switch/switch.iml" filepath="$PROJECT_DIR$/lectures/06-conditions-loops/switch/switch.iml" />
+    </modules>
+  </component>
+</project>
