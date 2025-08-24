@@ -11,7 +11,7 @@ find Simple Interest. (complete)
 (Use if conditions)
 5. Take 2 numbers as input and print the largest number. (complete)
 6. Input currency in rupees and output in USD. (complete)
-7. To calculate Fibonacci Series up to n numbers.
+7. To calculate Fibonacci Series up to n numbers. (complete)
 8. To find out whether the given String is Palindrome or not.
 9. To find Armstrong Number between two given number.
 
