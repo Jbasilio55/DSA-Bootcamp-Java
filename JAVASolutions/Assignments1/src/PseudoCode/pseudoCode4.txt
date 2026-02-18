@@ -1,0 +1,17 @@
+Start Program
+
+    User inputs Num 1:
+    User inputs Num 2:
+
+    Save Num1 into Temp1
+    Save Num2 into Temp2
+
+    while temp 2 does not equal 0
+        save temp2 in [Temp]
+        save (temp1 modulo temp2) in temp2
+        temp1 = Temp
+
+    HCF = temp1
+    LCM = num1 multiply num2 divide by HCF
+
+Stop Program

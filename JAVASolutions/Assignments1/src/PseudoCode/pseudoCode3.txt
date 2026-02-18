@@ -1,0 +1,15 @@
+Start Program
+
+    Ask User to Input Number
+    Save Number in Variables x and y
+    Create a variable to save answers
+    Create a string to save table
+
+    While number (x) minus 1 is greater than 0:
+        num (y) multiply (num (x) - num(y)) = answer
+        save answer
+        add to string  "num(x) * [num(x) - num(y)] = answer"
+
+    print String
+
+Stop Program
