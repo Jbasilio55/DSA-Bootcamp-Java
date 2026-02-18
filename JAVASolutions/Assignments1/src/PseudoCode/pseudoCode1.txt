@@ -1,0 +1,14 @@
+
+Start Program
+    Ask User to input a [value]
+
+    If: [value] is divisible by 400
+        PRINT: value is Leap Year
+    Else:
+        If: [value] is divisible by 100
+            PRINT: value is a Leap Year
+        Else:
+            If: [value] is divisible by 4
+                PRINT: value is a Leap Year
+            Else:
+                PRINT: Not a Leap Year

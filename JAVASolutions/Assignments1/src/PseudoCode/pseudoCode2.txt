@@ -1,0 +1,8 @@
+Start Program
+
+    Ask User to Input 1st number
+    Ask User to Input 2nd Number
+    Add 1st and 2nd number to get answer
+    print answer
+
+Stop program
